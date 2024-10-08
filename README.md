@@ -16,6 +16,9 @@ Clone the PC project and the related sub modules:
 ```bash
 git clone --recursive https://github.com/Jian-Sir-Hub/lv_port_pc_vscode.git
 ```
+```bash
+git clone git@github.com:Jian-Sir-Hub/lv_port_pc_vscode.git
+```
 
 ### Install SDL and build tools
 You can download SDL from https://www.libsdl.org/
